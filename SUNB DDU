@@ -1,0 +1,37 @@
+[
+  {
+    "number": 0,
+    "route": "NIS",
+    "destZ": "暫停服務",
+    "destY": "暫停服務",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
+  },
+  {
+    "number": 1,
+    "route": "NR331",
+    "destZ": "",
+    "destY": "",
+    "maxPZ": "1",
+    "priceZ1": "5",
+    "halfpriceZ1": "2.5",
+    "maxPY": "1",
+    "priceY1": "5",
+    "halfpriceY1": "2"
+  },
+  {
+    "number": 2,
+    "route": "NR331S
+    "destZ": "",
+    "destY": "",
+    "maxPZ": "1",
+    "priceZ1": "5.1",
+    "halfpriceZ1": "2.6",
+    "maxPY": "1",
+    "priceY1": "5.1",
+    "halfpriceY1": "2.6"
+  }
