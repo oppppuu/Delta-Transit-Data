@@ -1,0 +1,53 @@
+{
+  "fleetdata": [
+    {
+      "busname": "SunBus Streetdeck",
+      "number": 1,
+      "carplate": "XD 8994",
+      "fleetnum": "",
+      "depot": "",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "SunBus Streetdeck",
+      "number": 2,
+      "carplate": "XH 3328",
+      "fleetnum": "",
+      "depot": "",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "SunBus Streetdeck",
+      "number": 3,
+      "carplate": "XH 7854",
+      "fleetnum": "",
+      "depot": "",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "SunBus Streetdeck",
+      "number": 4,
+      "carplate": "XS 2022",
+      "fleetnum": "",
+      "depot": "",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    
+    {
+      "busname": "SunBus Streetdeck",
+      "number": 5
+      "carplate": "XS 1685
+      "fleetnum": "",
+      "depot": "",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
