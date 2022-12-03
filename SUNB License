@@ -40,11 +40,10 @@
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
     },
-    
     {
       "busname": "SunBus Streetdeck",
-      "number": 5
-      "carplate": "XS 1685
+      "number": 5,
+      "carplate": "XS 1685",
       "fleetnum": "",
       "depot": "",
       "leftad": "rbxassetid://",
