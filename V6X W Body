@@ -1,0 +1,48 @@
+{
+  "fleetdata": [
+    {
+      "busname": "GeoBusB8L12000highway",
+      "number": 1,
+      "carplate": "YH 9809",
+      "fleetnum": "V6X149",
+      "depot": "U",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+{
+  "fleetdata": [
+    {
+      "busname": "GeoBusB8L12000highway",
+      "number": 1,
+      "carplate": "YH 9709",
+      "fleetnum": "V6X150",
+      "depot": "U",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+{
+  "fleetdata": [
+    {
+      "busname": "GeoBusB8L12000highway",
+      "number": 1,
+      "carplate": "YJ 2347",
+      "fleetnum": "V6X151",
+      "depot": "U",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },    
+{
+  "fleetdata": [
+    {
+      "busname": "GeoBusB8L12000highway",
+      "number": 1,
+      "carplate": "YJ 1523",
+      "fleetnum": "V6X152",
+      "depot": "U",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },    
